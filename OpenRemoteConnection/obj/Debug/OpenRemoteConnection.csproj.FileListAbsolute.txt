@@ -1,0 +1,10 @@
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\bin\Debug\OpenRemoteConnection.exe.config
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\bin\Debug\OpenRemoteConnection.exe
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\bin\Debug\OpenRemoteConnection.pdb
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\OpenRemoteConnection.csprojAssemblyReference.cache
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\OpenRemoteConnection.csproj.CoreCompileInputs.cache
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\OpenRemoteConnection.exe
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\OpenRemoteConnection.pdb
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\Interop.UIA.dll
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\Interop.UIAutomationClient.dll
+C:\Users\fe662\source\repos\TMANOpenRemoteConnection.Script\OpenRemoteConnection\obj\Debug\OpenRemoteConnection.csproj.ResolveComReference.cache
